@@ -1,0 +1,16 @@
+# lecture slides and assignment sheets (teacher's material, not ours to publish)
+Prednášky/
+zadania/
+ui2_*.pdf
+genetic/GA_tbx4.pdf
+
+# MATLAB temp files
+*.asv
+*.autosave
+*.mex*
+slprj/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

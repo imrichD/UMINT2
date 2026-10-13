@@ -1,0 +1,4 @@
+populacia;nBest;nOld;nCross;nMut;spolu;pmutx;pmuta;Delta_start
+kazdy ostrov (9x);3;3;17;17;40;0.08;0.3;10.24
+SGA;27;27;153;153;360;0.08;0.3;10.24
+CPGA (18x20);NaN;NaN;NaN;NaN;360;0.04;0.15;10.24
